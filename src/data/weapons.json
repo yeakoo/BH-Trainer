@@ -1,0 +1,54 @@
+[
+  {
+    "weapon_name": "Sword",
+    "weapon_key": "Sword"
+  },
+  {
+    "weapon_name": "Spear",
+    "weapon_key": "Spear"
+  },
+  {
+    "weapon_name": "Katars",
+    "weapon_key": "Katar"
+  },
+  {
+    "weapon_name": "Greatsword",
+    "weapon_key": "Greatsword"
+  },
+  {
+    "weapon_name": "Lance",
+    "weapon_key": "RocketLance"
+  },
+  {
+    "weapon_name": "Gauntlets",
+    "weapon_key": "Fists"
+  },
+  {
+    "weapon_name": "Orb",
+    "weapon_key": "Orb"
+  },
+  {
+    "weapon_name": "Guns",
+    "weapon_key": "Pistol"
+  },
+  {
+    "weapon_name": "Scythe",
+    "weapon_key": "Scythe"
+  },
+  {
+    "weapon_name": "Hammer",
+    "weapon_key": "Hammer"
+  },
+  {
+    "weapon_name": "Axe",
+    "weapon_key": "Axe"
+  },
+  {
+    "weapon_name": "Cannon",
+    "weapon_key": "Cannon"
+  },
+  {
+    "weapon_name": "Bow",
+    "weapon_key": "Bow"
+  }
+]

@@ -1,0 +1,577 @@
+[{
+  "legend": "Ada",
+  "weapon": "Blasters",
+  "options_before": {
+    "dodge": true,
+    "jumps": 2,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "down-right",
+    "wakeup": "",
+    "direction": "right"
+  },
+  "sequence": "nlight",
+  "notes": "Going straight down after a gc nlight on guns seems to indicate a fear of a gimp off the top of the stage. I'm assuming this was a panic dodge towards the stage and had the situation been on the right side of the stage he would've probably dodge down-left"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+},
+{
+  "legend": "",
+  "weapon": "data.weapon",
+  "options_before": {
+    "dodge": true,
+    "jumps": 3,
+    "recovery": true
+  },
+  "reaction": {
+    "dodge": "",
+    "wakeup": "",
+    "direction": "left"
+  },
+  "sequence": "dlight-sair",
+  "notes": "This is a note"
+}
+]

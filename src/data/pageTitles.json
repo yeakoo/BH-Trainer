@@ -1,0 +1,18 @@
+[
+  {
+    "pathname": "/sequences",
+    "title": "Sequences"
+  },
+  {
+    "pathname": "/",
+    "title": "Trainer Overview"
+  },
+  {
+    "pathname": "/notes",
+    "title": "Notes"
+  },
+  {
+    "pathname": "/new_sequence",
+    "title": "Create a new Sequence"
+  }
+]

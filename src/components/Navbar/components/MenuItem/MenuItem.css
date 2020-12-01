@@ -1,0 +1,33 @@
+button {
+  border-style: none;
+  border: none;
+}
+
+.menu-item {
+  text-decoration: none;
+  color: white;
+  width: 2.2em;
+  height: 2.2em;
+  border-radius: 50%;
+  filter: brightness(1);
+  display: flex;
+  font-family: "Lato", sans-serif;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.12s;
+}
+
+.menu-item > label {
+  margin-top: 5px;
+}
+
+.menu-item:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  filter: brightness(0.8);
+}
+
+.menu-item > label:hover {
+  cursor: pointer;
+}
